@@ -1,0 +1,110 @@
+body{
+background-color:#85C1E9;
+}
+
+h1{
+text-align:Center;
+margin-top:5px;
+font-family:"Avenir";
+color:#D35400;
+opacity:1;
+font-size:55pt;
+}
+
+.h2{
+text-align:Center;
+margin-top:5px;
+font-family:"Avenir";
+color:#D35400;
+opacity:1;
+font-size:35pt;
+}
+
+img{
+border: 2px solid white;
+border-radius:50%;
+width:300px;
+height:340px;
+display:block;
+margin-left:auto;
+margin-right:auto;
+transition:transform 0.6s;
+opacity:1.1;
+margin-bottom:20px;
+}
+
+img:hover{
+border: 4px dashed #D35400;
+opacity:1;
+}
+
+.button{
+font-family:"Avenir";
+background-color: #D35400;
+color:white;
+font-size:30pt;
+width:90px;
+border:2px solid white;
+border-radius:4px;
+}
+
+.button2{
+font-family:"Avenir";
+background-color: #32CD32;
+color:white;
+font-size:30pt;
+width:90px;
+border:2px solid white;
+border-radius:4px;
+}
+
+.score{
+background-color:#85C1E9;
+font-size:20pt;
+border: 3px solid white;
+border-radius:8px;
+float:right;
+width:200px;
+height:40px;
+margin-top:2px;
+padding:5px;
+color:white;
+font-family:"Avenir";
+}
+.timer{
+background-color:#85C1E9;
+font-size:20pt;
+border: 3px solid white;
+border-radius:8px;
+float:left;
+width:200px;
+height:40px;
+margin-top:2px;
+color:white;
+font-family:"Avenir";
+padding:5px;
+}
+
+.statement{
+text-align:Center;
+font-family:"Avenir";
+font-size: 25pt;
+color:white;
+}
+
+.align{
+text-align:center;
+display:inline-center;
+margin-left:auto;
+margin-right:auto;
+}
+
+.button3{
+font-family:"Avenir";
+background-color: grey;
+color:white;
+font-size:30pt;
+width:100px;
+border:2px solid white;
+border-radius:4px;
+}
